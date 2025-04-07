@@ -1,7 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact&count_private=true&hide=prs&theme=dark)
-
 ### Tecnologias Utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -13,6 +9,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-10B8B2?style=flat&logo=sqlalchemy&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact&count_private=true&hide=prs&theme=dark)
 
 
 
