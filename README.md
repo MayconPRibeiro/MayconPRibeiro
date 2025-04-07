@@ -10,7 +10,11 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-10B8B2?style=flat&logo=sqlalchemy&logoColor=white)
 
+### Meu GitHub Status
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark&count_private=true)
+
+### Linguagens que mais utilizei
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact&count_private=true&hide=prs&theme=dark)
 
