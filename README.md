@@ -1,15 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&count_private=true&hide=prs)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact&count_private=true&hide=prs)
-
-
-### Tecnologias Utilizadas
-
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
 
 ### Tecnologias Utilizadas
 
