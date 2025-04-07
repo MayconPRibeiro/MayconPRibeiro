@@ -1,6 +1,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact&count_private=true&hide=prs&theme=dark)
 
 ### Tecnologias Utilizadas
 
