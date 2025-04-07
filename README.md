@@ -1,8 +1,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&count_private=true&hide=prs)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayconPRibeiro&show_icons=true&theme=dark&count_private=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayconPRibeiro&layout=compact&count_private=true&hide=prs)
 
 
 <!--
